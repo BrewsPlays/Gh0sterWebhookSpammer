@@ -1,15 +1,15 @@
 # Gh0ster Webhook Spammer 👻
 
-Tento projekt je nástroj na odosielanie hromadných správ cez webhooky. 
+This project is a tool for sending mass messages via webhooks.
 
-## Upozornenie ⚠️
+## Warning ⚠️
 
-Používajte tento nástroj **na vlastné nebezpečie**. Zneužitie tohto nástroja môže viesť k porušeniu pravidiel komunikačných platforiem a môže mať vážne dôsledky. Vždy sa uistite, že ste si prečítali a porozumeli pravidlám platformy, na ktorej plánujete tento nástroj použiť.
+Use this tool **at your own risk**. Misuse of this tool can lead to violations of communication platform rules and can have serious consequences. Always make sure you have read and understood the rules of the platform where you plan to use this tool.
 
-## Licencia 📄
+## License 📄
 
-Tento projekt je chránený autorskými právami. **Nekopírujte** alebo **nerozširujte** tento kód bez uvedenia pôvodného autora.
+This project is protected by copyright. **Do not copy** or **distribute** this code without crediting the original author.
 
-## Autor ✍️
+## Author ✍️
 
-Gh0ster
+ʙʀᴇᴡs😈| GhØster Army
